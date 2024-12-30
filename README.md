@@ -4,7 +4,9 @@
 **Object Detection for Waste Classification**
 
 ## Anggota Kelompok
-**Ken Arvian Narasoma - 1301213387**
+**Ken Arvian Narasoma**
+**Kamelia Khoirunnisa**
+**Ashiva Prameswara**
 
 ---
 
