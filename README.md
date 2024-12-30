@@ -3,7 +3,7 @@
 ## Nama Proyek
 **Object Detection for Waste Classification**
 
-##Anggota Kelompok
+## Anggota Kelompok
 **Ken Arvian Narasoma - 1301213387**
 
 ---
