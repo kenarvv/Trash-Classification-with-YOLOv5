@@ -31,3 +31,6 @@ Proyek ini bertujuan untuk mendeteksi dan mengklasifikasikan objek sampah ke dal
 - **Environment**: Jupyter Notebook, Virtual Environment (venv/conda)
 
 ---
+
+## Link Video Demonstrasi
+**https://drive.google.com/file/d/1lv2e5M90rdv_plowF1Qp1cA6zigBez3J/view?usp=sharing**
