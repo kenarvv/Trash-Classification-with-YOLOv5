@@ -1,9 +1,10 @@
-# Save the updated README content to a .md file
-readme_content = """
-# README
+
 
 ## Nama Proyek
 **Object Detection for Waste Classification**
+
+##Anggota Kelompok
+**Ken Arvian Narasoma - 1301213387**
 
 ---
 
